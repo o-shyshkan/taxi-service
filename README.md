@@ -13,16 +13,16 @@ Application has registration/authentication, basic CRUD operations and use as st
 7. Display detailed information about car and drivers who assigned for this car.
 
 **Structure:**
-taxi - root directory for project;
-controller - package for HttpServlet controller each in separate folder: car, driver, manufacture;
-dao - package for DAO interface for MySQL database;
-exception - package for exceptions;
-lib - package Injector class for creating objects;
-model - package for entity models: Car, Driver, Manufacturer;
-service - package for service interfaces;
-util - package for credential to database;
-web.filter - package for Filters;
-webapp - package for JSP pages and css style;
+* taxi - root directory for project;
+* controller - package for HttpServlet controller each in separate folder: car, driver, manufacture;
+* dao - package for DAO interface for MySQL database;
+* exception - package for exceptions;
+* lib - package Injector class for creating objects;
+* model - package for entity models: Car, Driver, Manufacturer;
+* service - package for service interfaces;
+* util - package for credential to database;
+* web.filter - package for Filters;
+* webapp - package for JSP pages and css style;
 
 **Technology:**
 1. Java - JDK 11
