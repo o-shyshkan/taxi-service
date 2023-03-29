@@ -24,7 +24,7 @@ util - package for credential to database;
 web.filter - package for Filters;
 webapp - package for JSP pages and css style;
 
-**Technology**:
+**Technology:**
 1. Java - JDK 11
 2. Web server - Tomcat 9.0.58
 3. Database - MySQL 8.0.32
@@ -32,8 +32,7 @@ webapp - package for JSP pages and css style;
 5. Java Servlet API - javax.servlet-api 4.0.1 
 6. JSP Standard Tag Library - jstl 1.2
 
-**Getting started**
-Installation instruction:
+**Getting started:**
 1. Make new directory for Taxi/Rental-service application, for example taxi
 2. In command line clone code from repository to taxi directory
    git@github.com:o-shyshkan/taxi-service.git
